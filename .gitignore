@@ -1,0 +1,5 @@
+ebin/
+http_server.d
+shell.nix
+write.py
+.erlang.mk/
